@@ -16,5 +16,8 @@ Description:
 8. When the user chooses to update an employee role, they are prompted to select an employee to update and their new role and this information is updated in the database
 
 Example Image:
+![image](https://github.com/jeflynn135/Employee-Tracker-SQL/assets/158126448/2b9846d0-8248-46be-8453-e5ec12b4fd02)
+
 
 Video Link:
+https://drive.google.com/file/d/10txXtiZUJS0lIMMMgbUSDk5hBkK1-ewJ/view 
